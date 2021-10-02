@@ -1,7 +1,7 @@
 import math as mt
-i = 0;
-j = 0;
-x = int(input)
+i = 0
+j = 0
+x = 50
 while i < x:
      while j < x:
          j += 1
