@@ -1,7 +1,7 @@
 import math as mt
 
 i = 0
-n = int(input)
-while i <= n:
+n = 50
+while i < n:
       j = j+ i
 print("the number of iterations is : ",j)
