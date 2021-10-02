@@ -1,0 +1,11 @@
+import math as mt
+i = 0;
+j = 0;
+x = int(input)
+while i < x:
+     while j < x:
+         j += 1
+     i +=1
+print(i)
+print(j)
+     
