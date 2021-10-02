@@ -1,0 +1,13 @@
+import math as mt
+
+i = 0
+j = 0
+k = 0
+x = 50
+while i < x:
+    while j < x:
+        while k < x:
+            k += 1
+        j += 1
+    i += 1
+print(i)      
